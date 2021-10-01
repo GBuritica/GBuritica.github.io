@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: Gloria Buriticá
 subtitle: Personal website
 description: 
-show_downloads: false
+show_downloads: true
 logo: /docs/foto.jpg
 google_analytics: UA-140077097-1
