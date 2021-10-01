@@ -1,8 +1,9 @@
-## Gloria Buriticá
+
+# Gloria Buriticá
 
 I'm a 3rd year Ph. D. student at the LPSM laboratory, Sorbonne Université, under the supervision of [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=176&uid=naveau) and [Olivier Wintenberger](http://wintenberger.fr).
 
-[*curriculum vitae*]("/docs/CV_BURITICA.pdf")
+[*curriculum vitae*](https://github.com/GBuritica/GBuritica.github.io/files/7269087/CV_BURITICA.pdf)
 
 ## Research: 
 
