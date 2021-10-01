@@ -27,7 +27,7 @@ I'm interested in environmental and econometric applications to risk assessment.
   - **29th Jan. 2021.** [9th Young Statisticians and Probabilists](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJ2b3z16nzAhUN_BQKHWTsCkIQFnoECAUQAQ&url=https%3A%2F%2Fwww.sfds.asso.fr%2Fsdoc-7795-2d13627f800bd259e637c0c74d6547b4-ysp2021fr.pdf&usg=AOvVaw1ncxF0EdsrZUL6PoZKrMi7) on Extreme Values, YSP, abroad.
   - **16th Sept. 2020.** [CIRM](https://conferences.cirm-math.fr/2233.html) on New Results on Time Series and their Statistical Applications, CIRM, France.
 
-### Teaching:
+## Teaching:
   - Introduction to probability and statistics.
   - Time series analysis.
   - Numerical probability and computational statistics.
