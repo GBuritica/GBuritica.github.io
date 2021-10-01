@@ -1,5 +1,9 @@
 # Gloria Buriticá
-I'm a Ph.D student
+I'm a Ph.D student at the LPSM laboratory, Sorbonne Université. 
+
+![56c5d39b-86fd-4494-bfff-eb4652c6fc97](https://user-images.githubusercontent.com/75476970/135652538-d47abe63-0fe0-47f3-96a9-c6d7fbe25429.jpg)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GBuritica/GBuritica.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
