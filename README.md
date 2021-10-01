@@ -1,38 +1,19 @@
-# Gloria Buriticá
-I'm a Ph.D student at the LPSM laboratory, Sorbonne Université. 
+I'm a 3rd year Ph. D. student at the LPSM laboratory, Sorbonne Université, under the supervision of [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=176&uid=naveau) and [Olivier Wintenberger](http://wintenberger.fr).
 
-## Welcome to GitHub Pages
+## Research 
 
-You can use the [editor on GitHub](https://github.com/GBuritica/GBuritica.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I work in the field of extreme value theory in the mid point between probabilistic and stastitics problems. 
+I'm interested in environmental and econometric applications to risk assessment. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Preprints
+- G. Buriticá, T. Mikosch, O. Wintenberger. (2021). Threshold selection for cluster inference based on large deviation principles. [[arXiv]](https://arxiv.org/abs/2106.12822).
+  
+### Published
+- G. Buriticá, N. Meyer, T. Mikosch, O. Wintenberger. (2021). Some variations on the extremal index. *Zapiski Nauchn. Seminarov POMI, to appear.* [[arXiv]](https://arxiv.org/abs/2106.05117). [(code)](https://github.com/GBuritica/extremal_index).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GBuritica/GBuritica.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+## Conferences/Seminars
+### Upcoming
+  - **6th Oct. 2021** [Valpred workshop](http://wintenberger.fr/VALPRED.html) on validation of forecasting and relative topics, Aussois CNRS center, France. 
+### Past
+  -**28th June. 2021** [EVA](https://media.ed.ac.uk/media/Gloria+Buritica+EVA+Talk+Preview+/1_0000cuby) on Extreme Value Analysis, The University of Edimburgh, abroad.
+  
