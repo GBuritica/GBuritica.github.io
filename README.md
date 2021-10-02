@@ -7,8 +7,8 @@ I'm a 3rd year Ph. D. student at the LPSM laboratory, Sorbonne Université, unde
 
 ## Research: 
 
-I work in the field of extreme value theory in the mid point between probabilistic and stastitics problems. 
-I'm interested in environmental and econometric applications to risk assessment. 
+I work in the field of extreme value theory in the mid point between probabilistic and stastitical problems. 
+I'm interested in risk assessment with applications to environmental sciences and econometrics.
 
 
 
@@ -29,9 +29,9 @@ I'm interested in environmental and econometric applications to risk assessment.
   - **16th Sept. 2020.** [CIRM](https://conferences.cirm-math.fr/2233.html) on New Results on Time Series and their Statistical Applications, CIRM, France.
 
 ## Teaching:
-  - Introduction to probability and statistics.
-  - Time series analysis.
-  - Numerical probability and computational statistics.
-  - Statistique Mathématique.
+  - Introduction to probability and statistics. L3.
+  - Time series analysis. M1.
+  - Numerical probability and computational statistics. M1.
+  - Basic statistics. M1.
   
   
