@@ -34,7 +34,7 @@ I'm interested in risk assessment with applications to environmental sciences an
   - Numerical probability and computational statistics. M1.
   - Basic statistics. M1.
   
-## miscellaneous:
+## Miscellaneous:
 <blockquote>
 " y todo lo que falta,
  es lo que desde siempre sobra. "
