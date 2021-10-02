@@ -36,7 +36,7 @@ I'm interested in risk assessment with applications to environmental sciences an
   
 ## miscellaneous:
 <blockquote>
-<p> " y yodo lo que falta, </p>
-<p>  <pre> <pre> es lo que desde siempre sobra. " </p>
+<p> " y todo lo que falta, </p>
+           es lo que desde siempre sobra. " </p>
 --- <cite>Hugo Mujica</cite>
 </blockquote>
