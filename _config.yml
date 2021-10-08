@@ -1,7 +1,8 @@
 theme: jekyll-theme-minimal
-title: Gloria Buriticá
-subtitle: Personal website
-description: 
-show_downloads: true
+title: --------------------
+subtitle: Gloria Buritica
+description: gloria.buritica@upmc.fr 
+show_downloads: FALSE
 logo: /docs/foto.jpg
 google_analytics: UA-140077097-1
+
