@@ -4,6 +4,8 @@ subtitle: Gloria Buritica
 description: gloria.buritica@upmc.fr 
 show_downloads: FALSE
 logo: /docs/foto.jpg
-plugins: - jekyll-sitemap
+google_analytics: UA
+plugins:
+  - jekyll-sitemap
 
 
