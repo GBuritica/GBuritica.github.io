@@ -12,6 +12,9 @@ I'm interested in risk assessment with applications to environmental sciences an
 
 ### Preprints:
 - G. Buriticá, T. Mikosch, O. Wintenberger. (2021). Threshold selection for cluster inference based on large deviation principles. [[arXiv]](https://arxiv.org/abs/2106.12822).
+
+### On going projects: 
+- G. Buriticá, P. Naveau. High return levels inference from multivariate rainfall timeseries: stable sums approach.
   
 ### Published:
 - G. Buriticá, N. Meyer, T. Mikosch, O. Wintenberger. (2021). Some variations on the extremal index. *"Записки научных семинаров ПОМИ"
@@ -19,10 +22,11 @@ Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—
 
 ## Conferences/Seminars:
 ### Upcoming:
-  - **1st Nov. 2021.** [ICMS](https://www.icms.org.uk/events/workshops/MCC2021) on Mathematics of the Climate Crisis: Extremes and Tipping Points, ICMS, Edinburgh, Scotland.
+  - **17th Nov. 2021.** Seminar University of Geneva, Geneva, Switzerland. 
   
   
 ### Past:
+  - **11th Nov. 2021.** Seminar University of Lausanne, Lausanne, Switzerland. 
   - **6th Oct. 2021.** [Valpred workshop](http://wintenberger.fr/VALPRED.html) on validation of forecasting and relative topics, Aussois CNRS center, France. 
   - **28th June. 2021.** [EVA](https://media.ed.ac.uk/media/Gloria+Buritica+EVA+Talk+Preview+/1_0000cuby) on Extreme Value Analysis, The University of Edimburgh, abroad.
   - **29th Jan. 2021.** [9th Young Statisticians and Probabilists](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJ2b3z16nzAhUN_BQKHWTsCkIQFnoECAUQAQ&url=https%3A%2F%2Fwww.sfds.asso.fr%2Fsdoc-7795-2d13627f800bd259e637c0c74d6547b4-ysp2021fr.pdf&usg=AOvVaw1ncxF0EdsrZUL6PoZKrMi7) on Extreme Values, YSP, abroad.
