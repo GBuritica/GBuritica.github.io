@@ -22,10 +22,9 @@ Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—
 
 ## Conferences/Seminars:
 ### Upcoming:
-  - **17th Nov. 2021.** Seminar University of Geneva, Geneva, Switzerland. 
-  
-  
+    
 ### Past:
+  - **17th Nov. 2021.** Seminar University of Geneva, Geneva, Switzerland. 
   - **11th Nov. 2021.** Seminar University of Lausanne, Lausanne, Switzerland. 
   - **6th Oct. 2021.** [Valpred workshop](http://wintenberger.fr/VALPRED.html) on validation of forecasting and relative topics, Aussois CNRS center, France. 
   - **28th June. 2021.** [EVA](https://media.ed.ac.uk/media/Gloria+Buritica+EVA+Talk+Preview+/1_0000cuby) on Extreme Value Analysis, The University of Edimburgh, abroad.
