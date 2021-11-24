@@ -22,7 +22,7 @@ Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—
 
 ## Conferences/Seminars:
 ### Upcoming:
-    
+  -
 ### Past:
   - **17th Nov. 2021.** Seminar University of Geneva, Geneva, Switzerland. 
   - **11th Nov. 2021.** Seminar University of Lausanne, Lausanne, Switzerland. 
