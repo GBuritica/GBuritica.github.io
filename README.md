@@ -11,8 +11,8 @@ I'm interested in risk assessment with applications to environmental sciences an
 
 
 ### Preprints:
-- G. Buriticá, T. Mikosch, O. Wintenberger. (2021). Threshold selection for cluster inference based on large deviation principles. [[arXiv]](https://arxiv.org/abs/2106.12822).
 - G. Buriticá, P. Naveau. (2021). Stable sums to infer high return levels of  multivariate rainfall time series. [[arXiv]](https://arxiv.org/abs/2112.02878).
+- G. Buriticá, T. Mikosch, O. Wintenberger. (2021). Threshold selection for cluster inference based on large deviation principles. [[arXiv]](https://arxiv.org/abs/2106.12822).
 
 ### On going projects: 
 - G. Buriticá, O. Wintenberger. Asymptotic normality for $\ell^p$ cluster inference. 
