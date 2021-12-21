@@ -6,7 +6,7 @@ I'm a 3rd year Ph. D. student at the LPSM laboratory, Sorbonne Université, unde
 
 ## Research: 
 
-I work in the field of extreme value theory in the mid point between probabilistic and stastitical problems. 
+I work in the field of extreme value theory in the mid point between probabilistic and statistical problems. 
 I'm interested in risk assessment with applications to environmental sciences and econometrics.
 
 
