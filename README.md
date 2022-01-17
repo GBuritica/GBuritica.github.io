@@ -23,7 +23,8 @@ Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—
 
 ## Conferences/Seminars:
 ### Upcoming:
-
+  - **4th Feb. 2022** Talk on ["Stable sums to infer high return levels of multivariate rainfall time series"](http://wintenberger.fr/seminars.html), Seminar LSCE-Université Paris Saclay, Paris, France. [zoom](https://us02web.zoom.us/j/82705669913?pwd=bCtOV2FlTmZWbFZJT0VnVitNQXZGUT09)
+  
 ### Past:
   - **2nd Dec. 2021.** Exposé Journée de rencontre avec les étudiants M2 probabilités, Sorbonne Université, Paris, France.
   - **17th Nov. 2021.** Seminar University of Geneva, Geneva, Switzerland. 
