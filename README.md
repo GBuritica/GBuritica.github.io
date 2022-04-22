@@ -11,11 +11,11 @@ I'm interested in risk assessment with applications to environmental sciences an
 
 
 ### Preprints:
-- G. Buriticá, P. Naveau. (2021). Stable sums to infer high return levels of  multivariate rainfall time series. [[arXiv]](https://arxiv.org/abs/2112.02878).
-- G. Buriticá, T. Mikosch, O. Wintenberger. (2021). Threshold selection for cluster inference based on large deviation principles. [[arXiv]](https://arxiv.org/abs/2106.12822).
+- G. Buriticá, P. Naveau. (2022). Stable sums to infer high return levels of  multivariate rainfall time series. [[arXiv]](https://arxiv.org/abs/2112.02878).
+- G. Buriticá, T. Mikosch, O. Wintenberger. (2022). Large deviations of lp-blocks of regularly varying time series and applications to cluster inference [[arXiv]](https://arxiv.org/abs/2106.12822).
 
 ### On going projects: 
-- G. Buriticá, O. Wintenberger. Asymptotic normality for $\ell^p$ cluster inference. 
+- G. Buriticá, O. Wintenberger. Asymptotic normality for lp-cluster inference. 
   
 ### Published:
 - G. Buriticá, N. Meyer, T. Mikosch, O. Wintenberger. (2021). Some variations on the extremal index. *"Записки научных семинаров ПОМИ"
@@ -26,6 +26,7 @@ Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—
   
   
 ### Past:
+  - **20th Apr. 2022** Talk on "Large deviations of lp-blocks", online.
   - **4th Feb. 2022** Talk on ["Stable sums to infer high return levels of multivariate rainfall time series"](http://wintenberger.fr/seminars.html), Seminar LSCE- Université Paris Saclay, Paris, France. 
   - **2nd Dec. 2021.** Exposé Journée de rencontre avec les étudiants M2 probabilités, Sorbonne Université, Paris, France.
   - **17th Nov. 2021.** Seminar University of Geneva, Geneva, Switzerland. 
