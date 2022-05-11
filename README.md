@@ -11,7 +11,7 @@ I'm interested in risk assessment with applications to environmental sciences an
 
 
 ### Preprints:
-- G. Buriticá, P. Naveau. (2022). Stable sums to infer high return levels of  multivariate rainfall time series. [[arXiv]](https://arxiv.org/abs/2112.02878).
+- G. Buriticá, P. Naveau. (2022). Stable sums to infer high return levels of  multivariate rainfall time series. [[arXiv]](https://hal.archives-ouvertes.fr/hal-03464883v3/document).
 - G. Buriticá, T. Mikosch, O. Wintenberger. (2022). Large deviations of lp-blocks of regularly varying time series and applications to cluster inference [[arXiv]](https://arxiv.org/abs/2106.12822).
 
 ### On going projects: 
