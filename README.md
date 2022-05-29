@@ -23,7 +23,7 @@ Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—
 
 ## Conferences/Seminars:
 ### Upcoming:
-  
+  - **31st Mai. 2022** Thesis Defense, Paris, Campus Jussieu corridors 15-25, room 104: [*slides*](/docs/Oral_slides-10.pdf), [*manuscript*](/docs/These-19.pdf).
   
 ### Past:
   - **20th Apr. 2022** Talk on "Large deviations of lp-blocks", online.
