@@ -1,6 +1,6 @@
 # Gloria Buriticá
 
-I'm a 3rd year Ph. D. candidate at the LPSM laboratory, Sorbonne Université, under the supervision of [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=176&uid=naveau) and [Olivier Wintenberger](http://wintenberger.fr).
+I defended my Ph.D. thesis in May 2022 at LPSM laboratory, Sorbonne Université, under the supervision of [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=176&uid=naveau) and [Olivier Wintenberger](http://wintenberger.fr).
 
 [*curriculum vitae*](/docs/CV_BURITICA.pdf), [*e-mail*](mailto:gloria.buritica@sorbonne-universite.fr).
 
@@ -21,14 +21,13 @@ I'm interested in risk assessment with applications to environmental sciences an
 - G. Buriticá, N. Meyer, T. Mikosch, O. Wintenberger. (2021). Some variations on the extremal index. *"Записки научных семинаров ПОМИ"
 Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—77. To be translated in J.Math.Sci. (Springer). [[arXiv]](https://arxiv.org/abs/2106.05117). [(code)](https://github.com/GBuritica/extremal_index).
 
-## Thesis Defense : 
-- **31st May. 2022** Thesis Defense, Paris, Campus Jussieu corridors 15-25, room 104: [*slides*](/docs/Oral_slides-10.pdf), [*manuscript*](/docs/These-19.pdf).
-
 ## Conferences/Seminars:
 ### Upcoming:
-
+ - **27th Jun. 2022** [BIRS workshop on causality and extremes](https://www.birs.ca/events/2022/5-day-workshops/22w5079) on "Assessing time dependencies for heavy rainfall modeling", Kelowna, Canada.
+ - **7th Jul. 2022** [Heavy Tails, Long-Range Dependence, and Beyond at Luminy](https://conferences.cirm-math.fr/2022-calendar.html) on "Assessing time dependencies for heavy rainfall modeling", Marseille, France.
   
 ### Past:
+  - **31st May. 2022** Thesis Defense, Paris, Campus Jussieu corridors 15-25, room 104: [*slides*](/docs/Oral_slides-10.pdf), [*manuscript*](/docs/These-19.pdf).
   - **20th Apr. 2022** Talk on "Large deviations of lp-blocks", online.
   - **4th Feb. 2022** Talk on ["Stable sums to infer high return levels of multivariate rainfall time series"](http://wintenberger.fr/seminars.html), Seminar LSCE- Université Paris Saclay, Paris, France. 
   - **2nd Dec. 2021.** Exposé Journée de rencontre avec les étudiants M2 probabilités, Sorbonne Université, Paris, France.
