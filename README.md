@@ -21,9 +21,12 @@ I'm interested in risk assessment with applications to environmental sciences an
 - G. Buriticá, N. Meyer, T. Mikosch, O. Wintenberger. (2021). Some variations on the extremal index. *"Записки научных семинаров ПОМИ"
 Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—77. To be translated in J.Math.Sci. (Springer). [[arXiv]](https://arxiv.org/abs/2106.05117). [(code)](https://github.com/GBuritica/extremal_index).
 
+## Thesis Defense : 
+- **31st May. 2022** Thesis Defense, Paris, Campus Jussieu corridors 15-25, room 104: [*slides*](/docs/Oral_slides-10.pdf), [*manuscript*](/docs/These-19.pdf).
+
 ## Conferences/Seminars:
 ### Upcoming:
-  - **31st Mai. 2022** Thesis Defense, Paris, Campus Jussieu corridors 15-25, room 104: [*slides*](/docs/Oral_slides-10.pdf), [*manuscript*](/docs/These-19.pdf).
+
   
 ### Past:
   - **20th Apr. 2022** Talk on "Large deviations of lp-blocks", online.
