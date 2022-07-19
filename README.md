@@ -36,7 +36,7 @@ Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—
 ### Past:
   - **27th Jun. 2022** [BIRS workshop on causality and extremes](https://www.birs.ca/events/2022/5-day-workshops/22w5079) on "Assessing time dependencies for heavy rainfall modeling", Kelowna, Canada.
   - **7th Jul. 2022** [Heavy Tails, Long-Range Dependence, and Beyond at Luminy](https://conferences.cirm-math.fr/2022-calendar.html) on "Assessing time dependencies for heavy rainfall modeling", Marseille, France.
-  - **31st May. 2022** Thesis Defense, Paris, Campus Jussieu corridors 15-25, room 104: [*slides*](/docs/Oral_slides-10.pdf), [*manuscript*](/docs/These-19.pdf).
+  - **31st May. 2022** Thesis Defense, Paris, Campus Jussieu corridors 15-25, room 104.
   - **20th Apr. 2022** Talk on "Large deviations of lp-blocks", online.
   - **4th Feb. 2022** Talk on ["Stable sums to infer high return levels of multivariate rainfall time series"](http://wintenberger.fr/seminars.html), Seminar LSCE- Université Paris Saclay, Paris, France. 
   - **2nd Dec. 2021.** Exposé Journée de rencontre avec les étudiants M2 probabilités, Sorbonne Université, Paris, France.
