@@ -11,12 +11,6 @@ Here you can find the [*slides*](/docs/Oral_slides-10.pdf) and the final [*manus
 I work in the field of extreme value theory in the mid point between probabilistic and statistical problems. 
 I'm interested in risk assessment with applications to environmental sciences and econometrics.
 
-## Teaching:
-  - Introduction to probability and statistics. L3.
-  - Time series analysis. M1.
-  - Numerical probability and computational statistics. M1.
-  - Basic statistics. M1.
-
 ### Preprints:
 - G. Buriticá, P. Naveau. (2022). Stable sums to infer high return levels of  multivariate rainfall time series. [[arXiv]](https://hal.archives-ouvertes.fr/hal-03464883v3/document).
 - G. Buriticá, T. Mikosch, O. Wintenberger. (2022). Large deviations of lp-blocks of regularly varying time series and applications to cluster inference [[arXiv]](https://arxiv.org/abs/2106.12822).
@@ -28,9 +22,16 @@ I'm interested in risk assessment with applications to environmental sciences an
 - G. Buriticá, N. Meyer, T. Mikosch, O. Wintenberger. (2021). Some variations on the extremal index. *"Записки научных семинаров ПОМИ"
 Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—77. To be translated in J.Math.Sci. (Springer). [[arXiv]](https://arxiv.org/abs/2106.05117). [(code)](https://github.com/GBuritica/extremal_index).
 
+## Teaching:
+  - Introduction to probability and statistics. L3.
+  - Time series analysis. M1.
+  - Numerical probability and computational statistics. M1.
+  - Basic statistics. M1.
+  
+  
 ## Conferences/Seminars:
 ### Upcoming:
-
+  -
   
 ### Past:
   - **27th Jun. 2022** [BIRS workshop on causality and extremes](https://www.birs.ca/events/2022/5-day-workshops/22w5079) on "Assessing time dependencies for heavy rainfall modeling", Kelowna, Canada.
