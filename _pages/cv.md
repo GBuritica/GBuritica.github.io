@@ -18,11 +18,7 @@ Education
 
 Work experience
 ======
-* Fall 2022: Postdoc
-  * Université de Gèneve
-  * Duties included: Research assistant
-  * Supervisor: Professor Sebastian Engelke
-  
+* Fall 2022: Postdoc at Université de Gèneve supervised by Professor Sebastian Engelke.
 
 Publications
 ======
@@ -48,12 +44,13 @@ Service and leadership
 
 Skills
 ======
-* IT Skill 
-    * R
-    * LaTex
-    * C++ (basic)
-    * Java (basic)
-* Languages
-  * Spanish (mother tongue)
-  * French (fluent)
-  * English (fluent)
+* IT Skill: R, LaTex, C++ (basic), Java (basic).
+* Languages: Spanish (mother tongue), French (fluent), English (fluent).
+
+Miscellaneous
+======
+<blockquote>
+" y todo lo que falta,
+ es lo que desde siempre sobra. "
+--- <cite>Hugo Mujica</cite>
+</blockquote>
