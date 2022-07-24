@@ -13,7 +13,7 @@ I defended my Ph.D. thesis entitled *"Assessing the time dependence of multivari
 
 Here you can find the [*slides*](/files/Oral_slides-10.pdf) and the final [*manuscript*](/files/these_archivage_3701601.pdf).
 
-[*curriculum vitae*](/docs/CV_BURITICA.pdf), [*e-mail*](mailto:gloria.buritica@sorbonne-universite.fr).
+[*curriculum vitae*](/files/CV_BURITICA.pdf), [*e-mail*](mailto:gloria.buritica@sorbonne-universite.fr).
 
 
 # Research: 
