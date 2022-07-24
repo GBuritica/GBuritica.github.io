@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course L3"
 permalink: /teaching/2019-proba-stats-1
 venue: "AgroParisTech"
-date: 
+date:   2020-02-01
 location: "Paris, France"
 ---
 
