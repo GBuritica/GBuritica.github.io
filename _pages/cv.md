@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Probability and statistics, Sorbonne Université, LPSM laboratory, Paris, 2022. 
+* M.S. in Probabilité et modèles aléatoires, Sorbonne Université, Paris, 2019.
+* B.S. in Mathematics, Universidad de los Andes, Bogotá, 2017.
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Postdoc
+  * Université de Gèneve
+  * Duties included: Research assistant
+  * Supervisor: Professor Sebastian Engelke
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* IT Skill 
+    * R
+    * LaTex
+    * C++ (basic)
+    * Java (basic)
+* Languages
+  * Spanish (mother tongue)
+  * French (fluent)
+  * English (fluent)
+
 
 Publications
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I coordinated the 'Groupe de travail' of Ph.D. students of the LPSM laboratory in 2020. 
