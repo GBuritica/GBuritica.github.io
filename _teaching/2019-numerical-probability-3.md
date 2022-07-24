@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Numerical probability and computational statistics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course M1"
+permalink: /teaching/2019-numerical-probability-3
+venue: "Sorbonne université, statistiques"
+date: 2019,2020
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Code assignments for the course taught [[Vincent Lemaire]](https://perso.lpsm.paris/~vlemaire/) and [[Tabea Rebafka]](https://perso.lpsm.paris/~rebafka/).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
