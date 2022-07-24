@@ -26,12 +26,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -40,12 +34,19 @@ Teaching
   
 Service and leadership
 ======
-* I coordinated the 'Groupe de travail' of Ph.D. students of the LPSM laboratory in 2020. 
+* I coordinated the Groupe de travail or Ph.D. students weekly workshop of the LPSM laboratory in 2020. 
 
 Skills
 ======
 * IT Skill: R, LaTex, C++ (basic), Java (basic).
 * Languages: Spanish (mother tongue), French (fluent), English (fluent).
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
 
 Miscellaneous
 ======
