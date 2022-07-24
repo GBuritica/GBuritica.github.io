@@ -1,56 +1,31 @@
-# Gloria Buriticá
+A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
-I defended my Ph.D. thesis entitled *"Assessing the time dependence of multivariate extremes for heavy rainfall modeling"* in May 2022 at LPSM laboratory, Sorbonne Université, under the supervision of [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=176&uid=naveau) and [Olivier Wintenberger](http://wintenberger.fr).
+I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
-Here you can find the [*slides*](/docs/Oral_slides-10.pdf) and the final [*manuscript*](/docs/these_archivage_3701601.pdf).
+### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-[*curriculum vitae*](/docs/CV_BURITICA.pdf), [*e-mail*](mailto:gloria.buritica@sorbonne-universite.fr).
+# Instructions
 
-## Research: 
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-I work in the field of extreme value theory in the mid point between probabilistic and statistical problems. 
-I'm interested in risk assessment with applications to environmental sciences and econometrics.
+See more info at https://academicpages.github.io/
 
-### Preprints:
-- G. Buriticá, P. Naveau. (2022). Stable sums to infer high return levels of  multivariate rainfall time series. [[arXiv]](https://hal.archives-ouvertes.fr/hal-03464883v3/document).
-- G. Buriticá, T. Mikosch, O. Wintenberger. (2022). Large deviations of lp-blocks of regularly varying time series and applications to cluster inference [[arXiv]](https://arxiv.org/abs/2106.12822).
+## To run locally (not on GitHub Pages, to serve on your own computer)
 
-### On going projects: 
-- G. Buriticá, O. Wintenberger. Asymptotic normality for lp-cluster inference. 
-  
-### Published:
-- G. Buriticá, N. Meyer, T. Mikosch, O. Wintenberger. (2021). Some variations on the extremal index. *"Записки научных семинаров ПОМИ"
-Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics.* **30**, 52—77. To be translated in J.Math.Sci. (Springer). [[arXiv]](https://arxiv.org/abs/2106.05117). [(code)](https://github.com/GBuritica/extremal_index).
+1. Clone the repository and made updates as detailed above
+1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+1. Run `bundle clean` to clean up the directory (no need to run `--force`)
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
-## Teaching:
-  - Introduction to probability and statistics. L3.
-  - Time series analysis. M1.
-  - Numerical probability and computational statistics. M1.
-  - Basic statistics. M1.
-  
-  
-## Conferences/Seminars:
-### Upcoming:
-  -
-  
-### Past:
-  - **27th Jun. 2022** [BIRS workshop on causality and extremes](https://www.birs.ca/events/2022/5-day-workshops/22w5079) on "Assessing time dependencies for heavy rainfall modeling", Kelowna, Canada.
-  - **7th Jul. 2022** [Heavy Tails, Long-Range Dependence, and Beyond at Luminy](https://conferences.cirm-math.fr/2022-calendar.html) on "Assessing time dependencies for heavy rainfall modeling", Marseille, France.
-  - **31st May. 2022** Thesis Defense, Paris, Campus Jussieu corridors 15-25, room 104.
-  - **20th Apr. 2022** Talk on "Large deviations of lp-blocks", online.
-  - **4th Feb. 2022** Talk on ["Stable sums to infer high return levels of multivariate rainfall time series"](http://wintenberger.fr/seminars.html), Seminar LSCE- Université Paris Saclay, Paris, France. 
-  - **2nd Dec. 2021.** Exposé Journée de rencontre avec les étudiants M2 probabilités, Sorbonne Université, Paris, France.
-  - **17th Nov. 2021.** Seminar University of Geneva, Geneva, Switzerland. 
-  - **11th Nov. 2021.** Seminar University of Lausanne, Lausanne, Switzerland. 
-  - **6th Oct. 2021.** [Valpred workshop](http://wintenberger.fr/VALPRED.html) on validation of forecasting and relative topics, Aussois CNRS center, France. 
-  - **28th June. 2021.** [EVA](https://media.ed.ac.uk/media/Gloria+Buritica+EVA+Talk+Preview+/1_0000cuby) on Extreme Value Analysis, The University of Edimburgh, abroad.
-  - **29th Jan. 2021.** [9th Young Statisticians and Probabilists](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjJ2b3z16nzAhUN_BQKHWTsCkIQFnoECAUQAQ&url=https%3A%2F%2Fwww.sfds.asso.fr%2Fsdoc-7795-2d13627f800bd259e637c0c74d6547b4-ysp2021fr.pdf&usg=AOvVaw1ncxF0EdsrZUL6PoZKrMi7) on Extreme Values, YSP, abroad.
-  - **16th Sept. 2020.** [CIRM](https://conferences.cirm-math.fr/2233.html) on New Results on Time Series and their Statistical Applications, CIRM, France.
+# Changelog -- bugfixes and enhancements
 
+There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
-## Miscellaneous:
-<blockquote>
-" y todo lo que falta,
- es lo que desde siempre sobra. "
---- <cite>Hugo Mujica</cite>
-</blockquote>
+To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
