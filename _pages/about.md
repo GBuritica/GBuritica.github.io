@@ -16,3 +16,13 @@ Here you can find the [*slides*](/files/Oral_slides-10.pdf) and the final [*manu
 [*curriculum vitae*](/docs/CV_BURITICA.pdf), [*e-mail*](mailto:gloria.buritica@sorbonne-universite.fr).
 
 
+## Research: 
+
+I work in the field of extreme value theory in the mid point between probabilistic and statistical problems. 
+I'm interested in risk assessment with applications to environmental sciences and econometrics.
+
+
+
+### On going projects: 
+- G. Buriticá, O. Wintenberger. Asymptotic normality for lp-cluster inference. 
+  
