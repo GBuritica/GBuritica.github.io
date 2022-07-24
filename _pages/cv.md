@@ -23,18 +23,6 @@ Work experience
   * Duties included: Research assistant
   * Supervisor: Professor Sebastian Engelke
   
-Skills
-======
-* IT Skill 
-    * R
-    * LaTex
-    * C++ (basic)
-    * Java (basic)
-* Languages
-  * Spanish (mother tongue)
-  * French (fluent)
-  * English (fluent)
-
 
 Publications
 ======
@@ -57,3 +45,15 @@ Teaching
 Service and leadership
 ======
 * I coordinated the 'Groupe de travail' of Ph.D. students of the LPSM laboratory in 2020. 
+
+Skills
+======
+* IT Skill 
+    * R
+    * LaTex
+    * C++ (basic)
+    * Java (basic)
+* Languages
+  * Spanish (mother tongue)
+  * French (fluent)
+  * English (fluent)
