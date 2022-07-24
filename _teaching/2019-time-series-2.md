@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course M1"
 permalink: /teaching/2019-time-series-2
 venue: "ISUP, actuarial sciences"
-date: 2019,2020,2021
+date: "2019,2020,2021"
 location: "Paris, France"
 ---
 
