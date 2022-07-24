@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Basic statistics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course M1"
+permalink: /teaching/2019-basic-statistics-4
+venue: "Sorbonne Université, Mathématiques et applications"
+date: 2019
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Code assignments for the course taught [[Maud Thomas]](https://sites.google.com/site/maudthomaspro/teaching)
