@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gloria Buriticá"
+title                    : "Personal website"
 title_separator          : "-"
 name                     : &name "Gloria Buriticá"
 description              : &description "personal description"
