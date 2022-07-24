@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course M1"
 permalink: /teaching/2019-numerical-probability-3
 venue: "Sorbonne université, statistiques"
-date: 2019,2020
+date: "2019,2020"
 location: "Paris, France"
 ---
 
