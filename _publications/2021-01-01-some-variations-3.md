@@ -1,7 +1,7 @@
 ---
 title: "Some variations of the extremal index"
 collection: publications
-permalink: /publication/2021-01-some-variations-3
+permalink: /publication/2021-01-01-some-variations-3
 excerpt: 'This paper is an overview on the extremal index for stationary time series. It provides a new interpretation in terms of α-clusters, where α is the tail-index of the series.'
 date: 2021-01-01
 venue: 'Zap. Nauchn. Semin. POMI. Volume 501, Probability and Statistics'
