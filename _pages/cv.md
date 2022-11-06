@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Fall 2022: I will join the research group of Professor Sebastian Engelke at Université de Gèneve as a Postdoc. 
+* Fall 2022: I joined the research group of Prof. [Sebastian Engelke](http://www.sengelke.com) at Université de Gèneve as a Postdoc. 
 
 Publications
 ======
