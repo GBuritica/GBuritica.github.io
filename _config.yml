@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gloria Buriticá"
   avatar           : "foto.jpg"
-  bio              : "Woman scientist. I'm interested in risk assessment with applications to    environmental sciences and econometrics."
-  location         : "Paris, 4 Place Jussieu, SU"
+  bio              : "I'm a woman scientist interested in risk assessment with applications to environmental sciences and econometrics."
+  location         : "Genève, Uni Mail - 5239, Université de Genève"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iNiqHYQAAAAJ&hl=fr&oi=ao"
-  email            : "gloria.buritica@sorbonne-universite.fr"
+  email            : "gloria.buriticaborda@unige.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
