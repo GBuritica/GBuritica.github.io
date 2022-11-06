@@ -17,7 +17,7 @@ I am a postdoctoral researcher at the [Université de Genève](https://www.unige
 
 ## My research
 
-I work in extreme value theory, where I study methodologies for assessing time dependence of multivariate heavy-tailed series. I'm also interested in the link between extreme value theory and statistical learning. My current interest lies in improving machine learning techniques for predicting occurrences that did not happen in the training data. For this purpose, we can borrow the extrapolation strategies in extreme value theory.
+I work in extreme value theory, where I study methodologies for assessing time dependencies in multivariate heavy-tailed series. I’m also interested in the link between extreme value theory and statistical learning. My current interest lies in improving machine learning techniques for predicting occurrences that did not happen in the training data. For this purpose, we can borrow the extrapolation strategies in extreme value theory.
 
 I enjoy working on risk assessment with applications to environmental sciences and econometrics.
 
