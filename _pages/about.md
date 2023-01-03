@@ -24,7 +24,8 @@ I enjoy working on risk assessment with applications to environmental sciences a
 Outside the university, I love reading and a fresh just-grind cup of Colombian coffee. I spacially enjoy gathering with friends and family around flavorful food and pursuing bucolic landscapes. 
 
 ## Ongoing projects
-- G. Buriticá, O. Wintenberger. Asymptotic normality for lp-cluster inference.
+
+Currently working on improving machine learning algorithm using extreme value statistics.
 
 ### Ph.D. Thesis 
 
