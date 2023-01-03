@@ -25,7 +25,7 @@ Outside the university, I love reading and a fresh just-grind cup of Colombian c
 
 ## Ongoing projects
 
-Currently working on improving machine learning algorithm using extreme value statistics.
+Currently learning about machine learning algorithms, and adapting extreme value statistics to regression problems.
 
 ### Ph.D. Thesis 
 
