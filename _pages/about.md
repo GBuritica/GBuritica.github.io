@@ -21,7 +21,7 @@ I work in extreme value theory, where I study methodologies for assessing time d
 
 I enjoy working on risk assessment with applications to environmental sciences and econometrics.
 
-Outside the university, I love reading and a fresh just-grind cup of Colombian coffee. I spacially enjoy gathering with friends and family around flavorful food and pursuing bucolic landscapes. 
+Outside the university, I love reading and a fresh just-grind cup of Colombian coffee. I specially enjoy gathering with friends and family around flavorful food and pursuing bucolic landscapes. 
 
 ## Ongoing projects
 
