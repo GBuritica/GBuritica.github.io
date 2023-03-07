@@ -13,4 +13,4 @@ citation: 'G. Buriticá, O. Wintenberger. (2022). On the asymptotics of extremal
 [[Download paper here]](https://arxiv.org/abs/2212.13521).
 
 
-G. Buriticá, O. Wintenberger. (2022). On the asymptotics of extremal lp-blocks cluster inference..
+G. Buriticá, O. Wintenberger. (2022). On the asymptotics of extremal lp-blocks cluster inference.
