@@ -5,12 +5,12 @@ permalink: /publication/2022-01-01-large-deviations-2
 excerpt: 'This paper studies large deviations of p-norms of stationary regularly varying time series. It introduces α-clusters, where α is the tail-index of the series, and proposes consistent disjoint blocks estimators of α-cluster features. This new methodology proves to be robust to handle time dependencies.'
 date: 2022-01-01
 venue: 'Submitted'
-paperurl: 'https://arxiv.org/abs/2106.12822'
+paperurl: 'https://doi.org/10.1016/j.spa.2023.03.013'
 citation: 'G. Buriticá, T. Mikosch, O. Wintenberger. (2022). Large deviations of lp-blocks of regularly varying time series and applications to cluster inference.'
 ---
 'This paper studies large deviations of p-norms of stationary regularly varying time series. It introduces α-clusters, where α is the tail-index of the series, and proposes consistent disjoint blocks estimators of α-cluster features. This new methodology proves to be robust to handle time dependencies.'
 
-[[Download paper here]](https://arxiv.org/abs/2106.12822).
+[[Download paper here]](https://doi.org/10.1016/j.spa.2023.03.013).
 
 
-G. Buriticá, T. Mikosch, O. Wintenberger. (2022). Large deviations of lp-blocks of regularly varying time series and applications to cluster inference.
+G. Buriticá, T. Mikosch, O. Wintenberger. (2022). Large deviations of lp-blocks of regularly varying time series and applications to cluster inference. *Stochastic Processes and their Applications*. **161**, 68--101.
