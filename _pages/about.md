@@ -16,7 +16,7 @@ I am a postdoctoral researcher at the [Université de Genève](https://www.unige
 
 
 ## News
-We organize the workshop [*Causality in Extremes*](https://sites.google.com/view/causality-extremes), at the University of Geneva from February 14 - 16, 2024.
+We are thrilled to announce the workshop [*Causality in Extremes*](https://sites.google.com/view/causality-extremes) to be held at the University of Geneva from February 14 - 16, 2024.
 Registration is now open and closes on October 31, 2023.
 
 ## My research
