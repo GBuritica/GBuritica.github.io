@@ -18,7 +18,8 @@ Education
 
 Work experience
 ======
-* Fall 2022: I joined the research group of Prof. [Sebastian Engelke](http://www.sengelke.com) at Université de Gèneve as a Postdoc. 
+* Fall 2024 - : I'm now a lecturer in statistics at AgroParisTech
+* Fall 2022 - Fall 2024: I was a postdoc in the research group of Prof. [Sebastian Engelke](http://www.sengelke.com) at Université de Gèneve.
 
 Publications
 ======
