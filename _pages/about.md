@@ -22,7 +22,6 @@ Currently learning about out-of-domain generalization problems in machine learni
 I'm a lecturer in statistics at MIA Paris-Saclay, AgroParisTech. Previously, I was a postdoctoral researcher at the [Université de Genève](https://www.unige.ch/gsem/fr/recherche/corps-professoral/chercheurs/gloria-buritica-borda/) working with Prof. [Sebastian Engelke](http://www.sengelke.com). I completed my Ph.D. at the LPSM laboratory in Sorbonne Université under the supervision of Prof. [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=176&uid=naveau) and Prof. [Olivier Wintenberger](http://wintenberger.fr). 
 
 
-[*curriculum vitae*](/files/CV_BURITICA.pdf), 
 [*e-mail*](mailto:gloriapatricia.buriticaborda@agroparistech.fr).
 
 
