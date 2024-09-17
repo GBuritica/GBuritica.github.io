@@ -46,8 +46,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification: "qO0ypQFjMAJu3kmyFYH_uAHSR7KUPr6s4WiyZeX33xQ"
@@ -81,7 +79,6 @@ author:
   bio              : "I'm a lecturer in statistics at MIA Paris-Saclay, AgroParisTech. My research is centered on extreme value theory and statistical learning with a primary focus on risk assessment in climate sciences."
   location         : "Palaiseau, AgroParisTech"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iNiqHYQAAAAJ&hl=fr&oi=ao"
   email            : "gloriapatricia.buriticaborda@agroparistech.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
