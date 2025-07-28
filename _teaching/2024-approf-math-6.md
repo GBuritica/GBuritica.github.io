@@ -1,8 +1,8 @@
 ---
-title: "Approfondissement en mathématiques"
+title: "Approfondissement en mathématiques - 2A"
 collection: teaching
 type: "UC1 - 2A"
-permalink: /teaching/2024-aprof-math-6
+permalink: /teaching/2024-approf-math-6
 venue: "AgroParisTech"
 date:  2024-10-01
 location: "Palaiseau, France"
