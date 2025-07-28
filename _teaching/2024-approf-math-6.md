@@ -1,5 +1,5 @@
 ---
-title: "Approfondissement en mathématiques - 2A"
+title: "Approfondissement en mathmatiques - 2A"
 collection: teaching
 type: "UC1 - 2A"
 permalink: /teaching/2024-approf-math-6
@@ -7,17 +7,17 @@ venue: "AgroParisTech"
 date:  2024-10-01
 location: "Palaiseau, France"
 ---
-Cours à choix de 2A afin d'approfondir différents concepts mathématiques tels que :
+Cours ˆ choix de 2A afin d'approfondir diffrents concepts mathmatiques tels que :
  
-Notions en **mathématiques générales** : 
--Algèbre linéaire et bilinéaire
+Notions en **mathmatiques gnrales** : 
+-Algbre linaire et bilinaire
 -Théorie de la mesure
 
-Notions en **probabilités et statistique** : 
--Variables aléatoires, types de convergences
+Notions en **probabilits et statistique** : 
+-Variables alatoires, types de convergences
 -Vecteurs gaussiens
 -Processus gaussiens 
 
-Notions en **mathématiques déterministes** : 
--Calcul différentiel
--Optimisation et méthodes numériques
+Notions en **mathmatiques dterministes** : 
+-Calcul diffrentiel
+-Optimisation et mthodes num–eriques
