@@ -1,5 +1,5 @@
 ---
-title: "Linear Models for Dependent Data"
+title: "Linear Models for Dependent Data - M2"
 collection: teaching
 type: "Graduate course M1"
 permalink: /teaching/2023-linear-mixed-models-5
