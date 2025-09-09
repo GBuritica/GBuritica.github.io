@@ -1,5 +1,5 @@
 ---
-title: "Introduction to probability and statistics"
+title: "Introduction to probability and statistics - L3"
 collection: teaching
 type: "Undergraduate course L3"
 permalink: /teaching/2019-proba-stats-1
